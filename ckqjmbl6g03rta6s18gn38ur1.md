@@ -258,4 +258,7 @@ public static ExpectedCondition<Boolean> jQueryAJAXCallsHaveCompleted() {
 
 refer to my [GitHub Repo](%[https://github.com/Ishan-Kumar/BaseFramework_Repo/tree/master/BaseFramework/src/com]) for some of the approaches I implemented some time back.  
 
+**And most important practice above all? ** last but not least, understand your product:  There is no concrete/ magic framework architecture/ tool that will work in all applications. Different project(business requirements ) requires different architecture and should be directly in line with your use case. Spend some time to understand the user stories and use cases. Decide your setup and tech stack based on your research and identify what you want to achieve then jump into code.
+
 Now, of course, there are much more things to share and I am sure, all of you have developed something suited for your purpose. If you have any such thing which can benefit others, please share It in the comments for us all :). 
+
