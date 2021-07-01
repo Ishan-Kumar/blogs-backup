@@ -23,7 +23,7 @@ We need Edge computing because the cloud won’t keep up. Today's hyperscale clo
 **Use case?**
 Applications one can think of as of now are IOT devices, AR/ VR based applications, Drone, Automatic cars, etc.
 
-*Imagine an automatic drone flying above on streets and someone gave instructions to turn left, instead of processing the instructions with the cloud, it is going to communicate and process data with someone’s car running under it locally because it has compute power required near to its location. We will have entire future smart cities built on it. Boundaries will be pushed and AI, ML applications will have a robust network, I mean possibilities are endless and what it will do is **not yet known**.*
+*Imagine an automatic drone flying above on streets and someone gave instructions to turn left. Instead of processing the instructions with the cloud(very time consuming and could be fatal), it is going to communicate and process data with someone’s car running under it locally(on the edge) because it has compute power required near to its location which would be quick, it could also be a lampost near by. We will have entire future smart cities built on it. Boundaries will be pushed and AI, ML applications will have a robust network, I mean possibilities are endless and what it will do is **not yet known**.*
 
 **References:**
 
