@@ -1,6 +1,8 @@
 ## What is edge computing and why does it matter?
 
-There are many good definitions of What?, So I’ll stress more on the **WHY?** part
+You might have heard a lot about edge computing in recent times. So what is it? Why all of sudden everyone is rushing towards it? 
+
+let's find out:
 
 **What is edge computing ?**
 Edge computing is a networking philosophy focused on bringing computing as close to the source of data as possible in order to reduce latency and bandwidth use.
@@ -20,7 +22,7 @@ The process has become more complex already and we now have interconnected devic
 if you know any infrastructure engineer or DevOps guy ask him about **cold start issues**, klunky orchestration, etc.
 We need Edge computing because the cloud won’t keep up. Today's hyperscale cloud data centers are modern marvels, but they're a bad fit for the era of connected things. The scale of connected devices and the growth of data generated in this next technological phase is almost unimaginable. There isn't enough bandwidth on the planet to haul the volume of usable edge data back to the cloud, and there never will be. Cloud giants know this, hence big companies are coming to their edge versions of the cloud like K8s(Google), aws Wavelength(Amazon), etc.
 
-**Use case?**
+**Known Use cases?**
 Applications one can think of as of now are IOT devices, AR/ VR based applications, Drone, Automatic cars, etc.
 
 *Imagine an automatic drone flying above on streets and someone gave instructions to turn left. Instead of processing the instructions with the cloud(very time consuming and could be fatal), it is going to communicate and process data with someone’s car running under it locally(on the edge) because it has compute power required near to its location which would be quick, it could also be a lampost near by. We will have entire future smart cities built on it. Boundaries will be pushed and AI, ML applications will have a robust network, I mean possibilities are endless and what it will do is **not yet known**.*
